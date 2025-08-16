@@ -64,13 +64,13 @@ export const companyInfo: CompanyInfo = {
   experience: "15+ Jahre",
   certifications: ["ISO 9001:2015", "ISO 14001:2015", "HACCP", "Berufsgenossenschaft"],
   address: {
-    street: "Businesspark Nederland 12",
-    city: "Amsterdam",
-    postal: "1101 AA",
-    country: "Niederlande",
+    street: "Businesspark Deutschland 12",
+    city: "Frankfurt am Main",
+    postal: "60329",
+    country: "Deutschland",
   },
   contact: {
-    phone: "+31 20 699 1546",
+    phone: "+49 69 699 1546",
     email: "info@sauberprofi.online",
     hours: "Mo-Fr: 7:00-19:00, Sa: 8:00-16:00",
   },
